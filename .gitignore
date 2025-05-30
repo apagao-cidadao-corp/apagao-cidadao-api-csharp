@@ -21,6 +21,3 @@ out/
 ## OS generated files
 .DS_Store
 Thumbs.db
-
-## dotenv / env files (caso você use)
-.env

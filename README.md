@@ -4,6 +4,13 @@ Sistema em C# para **registro e monitoramento de falhas e alertas relacionados a
 
 ---
 
+## 🤝 Autores
+
+- Deivison Pertel (RM550803)
+- Eduardo Akira Murata (RM98713)
+- Wesley Souza de Oliveira (RM97874)
+
+---
 ## 🛠️ Funcionalidades
 
 - 📌 **Registrar Falha de Energia** com descrição, tipo, local e data.
@@ -84,8 +91,39 @@ Registrar uma falha:
 Local: Zona Norte
 Descrição: Queda de energia após tempestade
 Tipo de falha: Curto-circuito
-Data: 2025-05-30
+Data: 30-05-2025
 ```
+
+## 📷 Evidências de Funcionamento
+
+
+### ▶️ Tela inicial da aplicação
+
+![Tela do menu](./assets/img/menu.png)
+
+---
+
+### ▶️ Registro de falha
+
+![Registro de falha](./assets/img/registrar_falha.png)
+
+---
+
+### ▶️ Registro de Aletar Critico
+
+![Registro de Aletar Critico](./assets/img/alerta_critico.png)
+
+---
+
+### ▶️ Listagem dos eventos
+
+![Listagem dos eventos](./assets/img/listar_eventos.png)
+
+---
+
+### ▶️ Saindo
+
+![Sair](./assets/img/sair.png)
 
 ---
 
