@@ -1,4 +1,4 @@
-# ⚡ Apagão Cidadão
+# Apagão Cidadão
 
 Sistema em C# para **registro e monitoramento de falhas e alertas relacionados a quedas de energia**, com foco em fornecer uma interface simples via console para operadores de campo ou analistas ambientais.
 
