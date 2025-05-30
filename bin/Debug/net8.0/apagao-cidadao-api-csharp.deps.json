@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "apagao-cidadao-api-csharp/1.0.0": {
+        "runtime": {
+          "apagao-cidadao-api-csharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "apagao-cidadao-api-csharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

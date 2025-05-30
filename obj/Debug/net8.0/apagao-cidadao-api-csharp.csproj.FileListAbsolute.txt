@@ -1,0 +1,15 @@
+C:\Faculdade\Engenharia-de-Software\3Ano\Apagao Cidadao\apagao-cidadao-api-csharp\obj\Debug\net8.0\apagao-cidadao-api-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Faculdade\Engenharia-de-Software\3Ano\Apagao Cidadao\apagao-cidadao-api-csharp\obj\Debug\net8.0\apagao-cidadao-api-csharp.AssemblyInfoInputs.cache
+C:\Faculdade\Engenharia-de-Software\3Ano\Apagao Cidadao\apagao-cidadao-api-csharp\obj\Debug\net8.0\apagao-cidadao-api-csharp.AssemblyInfo.cs
+C:\Faculdade\Engenharia-de-Software\3Ano\Apagao Cidadao\apagao-cidadao-api-csharp\obj\Debug\net8.0\apagao-cidadao-api-csharp.csproj.CoreCompileInputs.cache
+C:\Faculdade\Engenharia-de-Software\3Ano\Apagao Cidadao\apagao-cidadao-api-csharp\obj\Debug\net8.0\apagao-cidadao-api-csharp.sourcelink.json
+C:\Faculdade\Engenharia-de-Software\3Ano\Apagao Cidadao\apagao-cidadao-api-csharp\bin\Debug\net8.0\apagao-cidadao-api-csharp.exe
+C:\Faculdade\Engenharia-de-Software\3Ano\Apagao Cidadao\apagao-cidadao-api-csharp\bin\Debug\net8.0\apagao-cidadao-api-csharp.deps.json
+C:\Faculdade\Engenharia-de-Software\3Ano\Apagao Cidadao\apagao-cidadao-api-csharp\bin\Debug\net8.0\apagao-cidadao-api-csharp.runtimeconfig.json
+C:\Faculdade\Engenharia-de-Software\3Ano\Apagao Cidadao\apagao-cidadao-api-csharp\bin\Debug\net8.0\apagao-cidadao-api-csharp.dll
+C:\Faculdade\Engenharia-de-Software\3Ano\Apagao Cidadao\apagao-cidadao-api-csharp\bin\Debug\net8.0\apagao-cidadao-api-csharp.pdb
+C:\Faculdade\Engenharia-de-Software\3Ano\Apagao Cidadao\apagao-cidadao-api-csharp\obj\Debug\net8.0\apagao-cidadao-api-csharp.dll
+C:\Faculdade\Engenharia-de-Software\3Ano\Apagao Cidadao\apagao-cidadao-api-csharp\obj\Debug\net8.0\refint\apagao-cidadao-api-csharp.dll
+C:\Faculdade\Engenharia-de-Software\3Ano\Apagao Cidadao\apagao-cidadao-api-csharp\obj\Debug\net8.0\apagao-cidadao-api-csharp.pdb
+C:\Faculdade\Engenharia-de-Software\3Ano\Apagao Cidadao\apagao-cidadao-api-csharp\obj\Debug\net8.0\apagao-cidadao-api-csharp.genruntimeconfig.cache
+C:\Faculdade\Engenharia-de-Software\3Ano\Apagao Cidadao\apagao-cidadao-api-csharp\obj\Debug\net8.0\ref\apagao-cidadao-api-csharp.dll
