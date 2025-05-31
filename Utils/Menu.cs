@@ -51,7 +51,7 @@ namespace Utils
             Console.Write("Local: "); string? local = Console.ReadLine();
             Console.Write("Descrição: "); string? desc = Console.ReadLine();
             Console.Write("Tipo de falha: "); string? tipo = Console.ReadLine();
-            Console.Write("Data (yyyy-mm-dd): "); DateTime data = DateTime.Parse(Console.ReadLine()!);
+            Console.Write("Data (dd/mm/yyyy): "); DateTime data = DateTime.Parse(Console.ReadLine()!);
             _servico.RegistrarFalha(local!, desc!, tipo!, data);
             Logger.Log("Falha registrada com sucesso.");
         }
@@ -61,7 +61,7 @@ namespace Utils
             Console.Write("Local: "); string? local = Console.ReadLine();
             Console.Write("Descrição: "); string? desc = Console.ReadLine();
             Console.Write("Criticidade (1-5): "); int crit = int.Parse(Console.ReadLine()!);
-            Console.Write("Data (yyyy-mm-dd): "); DateTime data = DateTime.Parse(Console.ReadLine()!);
+            Console.Write("Data (dd/mm/yyyy): "); DateTime data = DateTime.Parse(Console.ReadLine()!);
             _servico.GerarAlerta(local!, desc!, crit, data);
             Logger.Log("Alerta gerado com sucesso.");
         }

@@ -11,6 +11,13 @@ Sistema em C# para **registro e monitoramento de falhas e alertas relacionados a
 - Wesley Souza de Oliveira (RM97874)
 
 ---
+
+## ▶️ Demonstração em Vídeo
+
+Assista ao vídeo de apresentação do projeto no YouTube:  
+🎥 [Apagão Cidadão: Sistema em C# para Monitoramento de Falhas e Alertas Energéticos](https://youtu.be/Cc3X8Kd_Uys)
+
+---
 ## 🛠️ Funcionalidades
 
 - 📌 **Registrar Falha de Energia** com descrição, tipo, local e data.
